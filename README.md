@@ -6,7 +6,7 @@
 chrome의 network 탭은 강력하지만
 - 토큰이나 API key가 노출된 것인지 판단해주지 않고
 - 요청을 다시 테스트하거나 API구조를 한눈에 정리해주지 않습니다.
-While Chrome's native Network tab is powerful, it lacks certain specialized features:
+- While Chrome's native Network tab is powerful, it lacks certain specialized features:
 - It doesn't automatically identify exposed tokens or API keys.
 - It's not optimized for re-testing requests or summarizing complex API structures at a glance.
 
