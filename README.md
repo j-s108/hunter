@@ -41,7 +41,7 @@ chrome의 network 탭은 강력하지만
 - Startups or Indie Developers managing personal projects.
   
 ## 설치방법(Installation)
-- 상단에 날자가 적힌 파일을 다운로드 합니다
+- 상단에 날짜가 적힌 파일을 다운로드 합니다
 - chrome -> 확장프로그램 -> 개발자모드 활성화 -> "압축해제된 확장 프로그램 로드" 선택 -> 폴더 업로드
 - Download the file.
 - Open Chrome and navigate to chrome://extensions/
