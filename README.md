@@ -53,6 +53,6 @@ chrome의 network 탭은 강력하지만
 도움이 되었다면 후원으로 응원해주세요.
 카카오 뱅크 7777-03-4195884  (박재성)
 This project is personally developed and maintained by a student developer.If Hunter has been helpful to you, please consider supporting the project:
-- ank: KakaoBank (South Korea)
+- bank: KakaoBank (South Korea)
 - Account: 7777-03-4195884
-- 박재성
+- name : 박재성
