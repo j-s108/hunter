@@ -51,7 +51,7 @@ chrome의 network 탭은 강력하지만
 - Open Chrome and navigate to chrome://extensions/
 - Enable "Developer mode" in the top right corner.
 - Click "Load unpacked" and select the downloaded folder.
-  
+
 ## 후원
 이프로젝트는 "학생 개발자가 개인적으로 개발 및 유지보수" 하고있습니다.
 도움이 되었다면 후원으로 응원해주세요.
@@ -60,3 +60,6 @@ This project is personally developed and maintained by a student developer.If Hu
 - bank: KakaoBank (South Korea)
 - Account: 7777-03-4195884
 - name : 박재성 
+
+## 업데이트(update)
+- 2026-02-09 : 오탐 개선(improvement of false positives)
