@@ -65,8 +65,8 @@ This project is personally developed and maintained by a student developer.If Hu
 - 파일명 규칙: YYYY-MM-DD[-번호]
 - 번호는 해당 날짜의 몇 번째 파일인지 의미하며, 없으면 첫 번째 파일입니다.
 - File naming convention: YYYY-MM-DD[-N]
-- N is the sequence number of the file for that date.
-- If omitted, it indicates the first or only file.
+- [-N] is the sequence number of the file for that date.
+- If [-N] is omitted, it indicates the first or only file.
 
 ## 업데이트(update)
 - 2026-02-09 : 오탐 개선(improvement of false positives)
