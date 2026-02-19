@@ -67,6 +67,7 @@ This project is personally developed and maintained by a student developer.If Hu
 - File naming convention: YYYY-MM-DD[-N]
 - [-N] is the sequence number of the file for that date.
 - If [-N] is omitted, it indicates the first or only file.
+- 이후 업데이트 내용은 릴리즈 탭에서 확인해주세요(Please check with SAP for future updates.)
 
 ## 업데이트(update)
 - 2026-02-09 : 오탐 개선(improvement of false positives)
